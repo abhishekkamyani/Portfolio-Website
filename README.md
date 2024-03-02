@@ -13,7 +13,7 @@ Welcome to my portfolio website repository! This website serves as a showcase fo
 
 
 ## Live Preview
-Click the following link: ####
+Click the following link: `https://abhishekkamyani.github.io/Portfolio-Website/`
 
 
 ## Getting Started
