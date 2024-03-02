@@ -179,7 +179,7 @@ header {
 
 /* ***------Hero Section------*** */
 .hero-section {
-    padding-block: 7rem 5rem;
+    padding-block: 10rem 5rem;
     background: url("../images/1.webp") no-repeat;
     background-size: cover;
     background-position: center;
