@@ -70,7 +70,6 @@ navToggler.addEventListener("click", () => {
 // Open-Close Navigation while Scrolling
 const header = document.querySelector("header");
 window.addEventListener("scroll", function() {
-  console.log(window.scrollY);
   if (window.scrollY > 100 && window.scrollY > this.lastScrollTop) {
     header.style.top = "-20%";
   } else {
