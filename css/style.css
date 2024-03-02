@@ -29,11 +29,12 @@ html {
     font-size: 62.5%;
     /* 1rem == 10px */
 
+    overflow-x: hidden !important;
     scroll-behavior: smooth;
 }
 
 body {
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 
 header,
