@@ -3,8 +3,11 @@ Welcome to my portfolio website repository! This website serves as a showcase fo
 
 ## Features
 ✅Responsive design: The website is optimized for viewing on various devices, including desktops, laptops, tablets, and mobile phones.
+
 ✅Project showcase: I have included a dedicated section to highlight some of my key projects, providing details on the technologies used and the outcomes achieved.
+
 ✅Skills and expertise: The website provides an overview of my skills and areas of expertise, allowing visitors to understand the breadth of my knowledge.
+
 ✅Contact information: I have included a contact section where visitors can reach out to me for inquiries, collaboration opportunities, or any questions they may have.
 
 ## Live Preview
